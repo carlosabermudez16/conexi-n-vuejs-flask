@@ -1,0 +1,1 @@
+En este pequeño proyecto buscamos crear la integración en el lado del frontend usando el framework VueJS y en el lado del backend usando el framework Flask.
